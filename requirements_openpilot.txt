@@ -8,7 +8,7 @@ raven==5.23.0
 requests==2.10.0
 setproctitle==1.1.10
 simplejson==3.8.2
-pyyaml==3.12
+pyyaml==5.4
 cffi==1.11.5
 enum34==1.1.6
 sympy==1.1.1
